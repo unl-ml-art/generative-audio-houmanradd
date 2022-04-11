@@ -32,10 +32,7 @@ Your code for generating your project:
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
-- ... some other form
+generated.mp3
 
 ## Technical Notes
 

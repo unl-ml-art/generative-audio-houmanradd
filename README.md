@@ -21,6 +21,8 @@ Run generate-music.py to generate a midi file from the model.
 Since most midis are multi-track (eg. 2x piano, left and right hand), and this model only supports one - run convertmidis.py to merge all tracks into one
 Change line 53 in train.py to specify where your .midi files are stored
 
+Data: data.rar
+
 ## Code
 
 Your code for generating your project:
